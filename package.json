@@ -1,0 +1,11 @@
+{
+  "name": "fadfs",
+  "version": "1.0.0",
+  "description": "Fuck adfs 2fa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew.bail",
+  "license": "ISC"
+}
